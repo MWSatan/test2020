@@ -9,5 +9,5 @@ public class Person {
 
     private String username;
 
-    private String ba;
+    private String address;
 }
