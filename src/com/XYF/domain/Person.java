@@ -9,7 +9,7 @@ public class Person {
 
     private String username;
 
-    private String address;
+    private String phone;
 
 
 }
